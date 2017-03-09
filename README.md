@@ -1,2 +1,2 @@
-# AIND
-Artificial Intelligence 
+# Artificial Intelligence Projects
+
