@@ -4,6 +4,7 @@
   2. Diagonal Sudoku Solver
   3. Isolation Game Solving
   4. Planning and Search
+  5. Sign Language Recognizer
   
 
 
